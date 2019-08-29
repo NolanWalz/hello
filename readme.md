@@ -1,3 +1,3 @@
 # hello
-Modified Hello World program
+Modified "Hello World" program
 https://github.com/NolanWalz/hello
